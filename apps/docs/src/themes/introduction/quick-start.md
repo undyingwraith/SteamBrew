@@ -40,7 +40,7 @@ code .
 
 ```bash [Linux]
 # cd into Steam skins folder
-cd ~/.steam/steam/steamui/skins
+cd ~/.steam/steam/millennium/themes/
 # clone the repository
 git clone "https://github.com/SteamClientHomebrew/ThemeTemplate"
 cd ThemeTemplate
